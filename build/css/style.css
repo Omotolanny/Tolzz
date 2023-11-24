@@ -667,6 +667,62 @@ video {
   background-color: rgb(243 244 246 / var(--tw-bg-opacity));
 }
 
+.bg-\[url\(\'\/build\/images\/Bgpi\'\)\] {
+  background-image: url('/build/images/Bgpi');
+}
+
+.bg-\[url\(\'\/build\/images\/Bgpic\'\)\] {
+  background-image: url('/build/images/Bgpic');
+}
+
+.bg-\[url\(\'\/\/images\/Bgpic\'\)\] {
+  background-image: url('//images/Bgpic');
+}
+
+.bg-\[url\(\'\/images\/Bgpic\'\)\] {
+  background-image: url('/images/Bgpic');
+}
+
+.bg-\[url\(\'\/i\'\)\] {
+  background-image: url('/i');
+}
+
+.bg-\[url\(\'\/\'\)\] {
+  background-image: url('/');
+}
+
+.bg-\[url\(\'\/images\/\'\)\] {
+  background-image: url('/images/');
+}
+
+.bg-\[url\(\'\/images\/Bgp\'\)\] {
+  background-image: url('/images/Bgp');
+}
+
+.bg-\[url\(\'\/images\/Bgpict\'\)\] {
+  background-image: url('/images/Bgpict');
+}
+
+.bg-\[url\(\'\/images\/Bgpicture\.\'\)\] {
+  background-image: url('/images/Bgpicture.');
+}
+
+.bg-\[url\(\'\/images\/Bgpicture\.jp\'\)\] {
+  background-image: url('/images/Bgpicture.jp');
+}
+
+.bg-\[url\(\'\/images\/Bgpicture\.jpegs\'\)\] {
+  background-image: url('/images/Bgpicture.jpegs');
+}
+
+.bg-\[url\(\'\/images\/Bgpicture1\.jpegs\'\)\] {
+  background-image: url('/images/Bgpicture1.jpegs');
+}
+
+.bg-\[url\(\'\/build\/images\/Bgpicture1\.jpegs\'\)\] {
+  background-image: url('/build/images/Bgpicture1.jpegs');
+}
+
 .object-cover {
   -o-object-fit: cover;
      object-fit: cover;
