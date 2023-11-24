@@ -657,11 +657,6 @@ video {
   border-color: rgb(252 165 165 / var(--tw-border-opacity));
 }
 
-.bg-amber-400 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(251 191 36 / var(--tw-bg-opacity));
-}
-
 .bg-black {
   --tw-bg-opacity: 1;
   background-color: rgb(0 0 0 / var(--tw-bg-opacity));
@@ -853,7 +848,8 @@ video {
   margin-left: 0.5rem;
   margin-top: 0.5rem;
   border-radius: 9999px;
-  background-color: rgb(250 204 21 / 0.5);
+  --tw-bg-opacity: 1;
+  background-color: rgb(253 224 71 / var(--tw-bg-opacity));
   padding: 0.5rem;
   font-size: 0.75rem;
   line-height: 1rem;
